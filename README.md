@@ -1,5 +1,5 @@
 ## Hi there 👋
-<!
+
 👋 Hi, I’m Mauyon Wusu @W-mauyon
 
 👀 I’m interested in advancing my programming skills through projects
@@ -12,4 +12,3 @@
 
 😄 Pronouns: She/her
 
--->
