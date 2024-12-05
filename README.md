@@ -1,5 +1,6 @@
 ## Hi there 👋
-<!--**W-mauyon/W-mauyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!
+--**W-mauyon/W-mauyon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 👋 Hi, I’m Mauyon Wusu @W-mauyon
 👀 I’m interested in advancing my programming skills through projects
