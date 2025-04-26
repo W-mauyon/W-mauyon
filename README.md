@@ -4,7 +4,7 @@
 
 👀 I’m interested in advancing my programming skills through projects
 
-🌱 I’m familiar with C++ and currently sharpening my Python skils.
+🌱 I’m familiar with C++ and Python.
 
 💞️ I’m looking to collaborate on projects that are short-term (max - 3 months), but impactful and will help me advance my skills.
 
